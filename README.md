@@ -12,7 +12,7 @@ const Felipe = {
   pronouns: "he" | "him",
   code: [Javascript, Typescript, HTML, CSS, Python],
   tools: [React, Next.js, Node, Styled-Components, SASS],
-  challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+  things I find interesting: [volleyball, old music, fps games, stock exchange]
 }
 ```
 
