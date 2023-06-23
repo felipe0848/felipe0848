@@ -15,6 +15,6 @@ const Felipe = {
 }
 ```
 
-😁 <em>if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+<em>if you want to say <b>hi, I'll be happy to meet</b> :)</em>
 
 ---
