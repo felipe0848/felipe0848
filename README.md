@@ -11,7 +11,7 @@
 const Felipe = {
   code: ["Javascript", "Typescript", "HTML", "CSS", "Python"],
   tools: ["React", "Next.js", "Node", "Styled-Components", "SASS"],
-  things I find interesting: ["Volleyball", "Old music", "fps game", "stock exchange"]
+  interestingThings: ["Volleyball", "Old music", "fps game", "stock exchange"]
 }
 ```
 
