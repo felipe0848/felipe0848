@@ -5,7 +5,7 @@
 [![GitHub felipe0848](https://img.shields.io/github/followers/felipe0848?label=follow&style=social)](https://github.com/felipe0848)
 
 
-### 🔎  A little more about me...  
+### 🔎  Some info about me...  
 
 ```javascript
 const Felipe = {
